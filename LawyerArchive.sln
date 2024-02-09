@@ -4,12 +4,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LawyerArchive", "LawyerArchive\LawyerArchive.csproj", "{04CF2C92-C395-4071-A0A4-81F027DCFF69}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A50C21A3-0856-45C0-89C6-21FE0DF2937C} = {A50C21A3-0856-45C0-89C6-21FE0DF2937C}
+		{B6DFC82F-B787-4F9C-A154-5312ED649996} = {B6DFC82F-B787-4F9C-A154-5312ED649996}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawyerArchive.Domain", "LawyerArchive.Domain\LawyerArchive.Domain.csproj", "{B6DFC82F-B787-4F9C-A154-5312ED649996}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawyerArchive.Application", "LawyerArchive.Application\LawyerArchive.Application.csproj", "{D05B9ED3-CD2D-46FD-A81B-67321109D964}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LawyerArchive.Infrastructure", "LawyerArchive.Infrastructure\LawyerArchive.Infrastructure.csproj", "{A50C21A3-0856-45C0-89C6-21FE0DF2937C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B6DFC82F-B787-4F9C-A154-5312ED649996} = {B6DFC82F-B787-4F9C-A154-5312ED649996}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

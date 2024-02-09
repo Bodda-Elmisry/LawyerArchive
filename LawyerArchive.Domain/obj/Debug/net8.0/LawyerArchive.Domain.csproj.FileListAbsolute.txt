@@ -1,0 +1,13 @@
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\bin\Debug\net8.0\LawyerArchive.Domain.deps.json
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\bin\Debug\net8.0\LawyerArchive.Domain.dll
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\bin\Debug\net8.0\LawyerArchive.Domain.pdb
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\LawyerArchive.Domain.csproj.AssemblyReference.cache
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\LawyerArchive.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\LawyerArchive.Domain.AssemblyInfoInputs.cache
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\LawyerArchive.Domain.AssemblyInfo.cs
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\LawyerArchive.Domain.csproj.CoreCompileInputs.cache
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\LawyerArchive.Domain.sourcelink.json
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\LawyerArchive.Domain.dll
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\refint\LawyerArchive.Domain.dll
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\LawyerArchive.Domain.pdb
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Domain\obj\Debug\net8.0\ref\LawyerArchive.Domain.dll

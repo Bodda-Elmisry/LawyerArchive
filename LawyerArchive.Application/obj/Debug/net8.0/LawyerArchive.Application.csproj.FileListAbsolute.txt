@@ -1,0 +1,12 @@
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\bin\Debug\net8.0\LawyerArchive.Application.deps.json
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\bin\Debug\net8.0\LawyerArchive.Application.dll
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\bin\Debug\net8.0\LawyerArchive.Application.pdb
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\obj\Debug\net8.0\LawyerArchive.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\obj\Debug\net8.0\LawyerArchive.Application.AssemblyInfoInputs.cache
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\obj\Debug\net8.0\LawyerArchive.Application.AssemblyInfo.cs
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\obj\Debug\net8.0\LawyerArchive.Application.csproj.CoreCompileInputs.cache
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\obj\Debug\net8.0\LawyerArchive.Application.sourcelink.json
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\obj\Debug\net8.0\LawyerArchive.Application.dll
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\obj\Debug\net8.0\refint\LawyerArchive.Application.dll
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\obj\Debug\net8.0\LawyerArchive.Application.pdb
+F:\Win Old 22-11-2023\Projects\LawyerArchive\LawyerArchive.Application\obj\Debug\net8.0\ref\LawyerArchive.Application.dll

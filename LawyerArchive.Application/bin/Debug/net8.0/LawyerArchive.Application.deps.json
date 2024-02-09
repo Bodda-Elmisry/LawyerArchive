@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LawyerArchive.Application/1.0.0": {
+        "runtime": {
+          "LawyerArchive.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LawyerArchive.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
